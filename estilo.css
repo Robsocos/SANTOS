@@ -1,0 +1,21 @@
+.cor-vermelha{
+    color: red;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    border: 1px solid #000;
+    border-radius: 15px;
+    background-color: #ff0;
+    /*width: 50px;
+    height: 52px;*/
+padding: 20px 50px 80px 120px;
+text-align: center;
+margin: 40px 50px 60px 70px;
+}
+#terceiro-paragrafo{
+    color: blue;
+    font-size: 25px;
+   
+
+
+}
